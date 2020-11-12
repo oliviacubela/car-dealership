@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1.22",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1.22": {
+      "Car/1.0.0": {
+        "runtime": {
+          "Car.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Car/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
